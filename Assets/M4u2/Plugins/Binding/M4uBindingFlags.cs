@@ -54,12 +54,12 @@ namespace M4u2
         GetProperty       = 1 << 7,
         /// <summary>
         /// M4u2オリジナルフラグ
-        /// 自ゲームオブジェクトのみを対象とする(WriteObjectに入れると便利)
+        /// 自ゲームオブジェクトのみを対象とする(読み込みオブジェクトに入れると便利)
         /// </summary>
         OwnGameObjectOnly = 1 << 8,
         /// <summary>
         /// M4u2オリジナルフラグ
-        /// IM4uNotifierを継承したクラスのみを対象とする(ReadObjectに入れると便利)
+        /// IM4uNotifierを継承したクラスのみを対象とする(読み込みオブジェクトに入れると便利)
         /// </summary>
         NotifierOnly      = 1 << 9,
         /// <summary>

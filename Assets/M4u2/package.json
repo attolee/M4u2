@@ -1,0 +1,12 @@
+{
+  "name": "cn.attolee.vcontainer",
+  "displayName": "M4u2",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "",
+  "keywords": ["MVVM"],
+  "license": "MIT",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+}

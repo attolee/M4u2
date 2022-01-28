@@ -3,7 +3,7 @@
 namespace M4u2
 {
     /// <summary>
-    /// IM4uDecoratorを継承した装飾クラス。本クラスを継承してDecorateメソッドを実装することでバインド結果を装飾可能。
+    /// IM4uDecoratorを継承した装飾クラス。本クラスを継承してDecorateメソッドを実装することで、バインド結果を装飾可能。
     /// 本クラスじゃなくてもIM4uDecoratorを継承さえすれば装飾クラスは自由に作成可能。
     /// </summary>
     public abstract class M4uDecorator : MonoBehaviour, IM4uDecorator
